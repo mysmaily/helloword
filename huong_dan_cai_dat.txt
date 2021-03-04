@@ -1,0 +1,7 @@
+1. Copy source code lên vps
+2. "cd" vào thư mục chứa source
+3. Để bắt đầu cài chạy "bash install.sh"
+4. Để start chạy "bash start.sh"
+5. Dể restart chạy "bash restart.sh"
+6. Chỉnh setting như cookie, port, domain trong file ".env"
+7. Thay proxy thì thay file "proxy.json", format như file trong source
